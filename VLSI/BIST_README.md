@@ -186,7 +186,7 @@ Proceedings of the Fifth International Conference on Computing Methodologies and
 
 ## Author
 
-** Madhumitha P**
+**Madhumitha P**
 **Divyashree Chakravarthi**
 
 
