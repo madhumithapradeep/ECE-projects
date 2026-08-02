@@ -17,13 +17,14 @@ The projects span multiple areas of VLSI and Digital Design, including:
 * ASIC Design Flow
 * FPGA-Based Prototyping
 * Memory BIST & DFT
+* RISC-V processor
 * RTL Design & Verification
 
 ---
 
 ## Featured Projects
 
-### CNN Hardware Accelerator for Underwater Robotics
+### CNN Hardware Accelerator for Underwater Robotics(under publication)
 
 Memory-efficient CNN accelerator with quantization and shift-based arithmetic for FPGA deployment.
 
@@ -31,13 +32,17 @@ Memory-efficient CNN accelerator with quantization and shift-based arithmetic fo
 
 RTL implementation and synthesis of AES-128 with timing, power, and area analysis using Cadence Genus.
 
-### Memory BIST on FPGA
+### BIST on FPGA
 
-Built-In Self-Test architecture for automated memory fault detection and validation.
+Built-In Self-Test architecture using bit swapping LFSR and modified MISR.
 
 ### Simon & Trivium Cryptographic Hardware
 
 Implementation and evaluation of lightweight cryptographic algorithms for embedded systems.
+
+### 5-Stage RV32I RISC-V Processor Design & Verification
+
+Designed a synthesizable 5-stage pipelined RV32I processor including datapath, control unit, and pipeline registers.
 
 ### HDLBits Solutions
 
